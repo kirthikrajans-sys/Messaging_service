@@ -12,3 +12,7 @@
 
 ## Twilio Configuration 
   configure the backend server for inbound and outbound message to twilio console 
+
+
+## setting up environment
+  for setting-up the ennvironment rename .env.example to .env
